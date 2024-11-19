@@ -1,0 +1,1063 @@
+Accelerator (Axis 5) moved to -0.78 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -0.78 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -0.36 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to 0.36 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to 0.32 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -0.44 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -0.81 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:54:18
+Accelerator (Axis 5) moved to -0.85 at 2024-11-09 22:55:15
+Accelerator (Axis 5) moved to -0.40 at 2024-11-09 22:55:15
+Accelerator (Axis 5) moved to 0.96 at 2024-11-09 22:55:15
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:15
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.31 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.52 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.66 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.70 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.71 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.72 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.76 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.81 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.93 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.79 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.45 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:18
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:18
+Left/Right Control (Axis 0) moved to -0.08 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.27 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.39 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.53 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.70 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.80 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:19
+Left/Right Control (Axis 0) moved to -0.86 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.88 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.86 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.83 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.54 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to -0.22 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.01 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.06 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.16 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.28 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.41 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.53 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.75 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.94 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.77 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.30 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.05 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.15 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.33 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.56 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.91 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.98 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.64 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:20
+Left/Right Control (Axis 0) moved to 0.02 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.09 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.25 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.26 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.27 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.30 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.38 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.41 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.43 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.41 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.29 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.08 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.45 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.83 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.74 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.54 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to -0.30 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:21
+Left/Right Control (Axis 0) moved to 0.10 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 0) moved to 0.29 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 0) moved to 0.56 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 0) moved to 0.94 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 1) moved to 0.18 at 2024-11-09 22:55:22
+Left/Right Control (Axis 1) moved to 0.18 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:22
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:22
+Left/Right Control (Axis 1) moved to 0.04 at 2024-11-09 22:55:22
+Left/Right Control (Axis 1) moved to -0.00 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -0.93 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -0.93 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -0.56 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to 0.40 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 0.81 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 0.11 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.37 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.67 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.97 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to 0.60 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -0.47 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:22
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -0.26 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:22
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:23
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:23
+Accelerator (Axis 5) moved to 0.96 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to 0.33 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.97 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -0.37 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -0.82 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.72 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.44 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 0.04 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 0.68 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 0.92 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 0.96 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to 0.07 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.58 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:25
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -0.89 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -0.71 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -0.37 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to 0.18 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to 0.92 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.97 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.79 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.44 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.11 at 2024-11-09 22:55:25
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:25
+Left/Right Control (Axis 0) moved to 0.09 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.17 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.25 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.35 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.44 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.55 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.64 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.71 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.75 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.76 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.73 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.62 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.52 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.38 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.23 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 0.96 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 0.40 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.05 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.26 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.67 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.89 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to -0.24 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to -0.49 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to -0.76 at 2024-11-09 22:55:26
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:26
+Left/Right Control (Axis 1) moved to 0.05 at 2024-11-09 22:55:26
+Left/Right Control (Axis 1) moved to 0.10 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.97 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.82 at 2024-11-09 22:55:26
+Left/Right Control (Axis 1) moved to 0.12 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to -0.52 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 0.04 at 2024-11-09 22:55:26
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 0.92 at 2024-11-09 22:55:26
+Left/Right Control (Axis 1) moved to 0.15 at 2024-11-09 22:55:26
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:26
+Brake (Axis 4) moved to -0.90 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to -0.65 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to 0.04 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 0.96 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 0.07 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -0.60 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.12 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -0.89 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.12 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.12 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to 0.60 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.12 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to -0.22 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.13 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to -0.65 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to -0.90 at 2024-11-09 22:55:27
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -0.56 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 0.04 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.10 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.09 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.10 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to 0.02 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.93 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.78 at 2024-11-09 22:55:27
+Left/Right Control (Axis 1) moved to -0.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.54 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.36 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.05 at 2024-11-09 22:55:27
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:27
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.28 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.43 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.57 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.71 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.85 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.75 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.57 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.34 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.07 at 2024-11-09 22:55:28
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:28
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.33 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.52 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.72 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.90 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.97 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.86 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.74 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.49 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to -0.22 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to 0.02 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to 0.07 at 2024-11-09 22:55:29
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:29
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:30
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.48 at 2024-11-09 22:55:30
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.94 at 2024-11-09 22:55:30
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.96 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.81 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.56 at 2024-11-09 22:55:30
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:30
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:30
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to 0.07 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.03 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.26 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.47 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.66 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.61 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.41 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:31
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:31
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.07 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.16 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.26 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.43 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.55 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.71 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.84 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.98 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.94 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.78 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.53 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.10 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:32
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:32
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.34 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.52 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.88 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.97 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.80 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.54 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to -0.27 at 2024-11-09 22:55:33
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:33
+Left/Right Control (Axis 0) moved to 0.08 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.39 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.59 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.83 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.94 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.61 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.23 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.18 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.41 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.60 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.79 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.93 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.92 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.78 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.57 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.36 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to -0.07 at 2024-11-09 22:55:34
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:34
+Left/Right Control (Axis 0) moved to 0.01 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.10 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.35 at 2024-11-09 22:55:36
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.52 at 2024-11-09 22:55:36
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.77 at 2024-11-09 22:55:36
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:36
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.96 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:36
+Left/Right Control (Axis 0) moved to 0.97 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to 0.73 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.22 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.50 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.77 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.99 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.83 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:37
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to -0.26 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:37
+Left/Right Control (Axis 0) moved to 0.01 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.26 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.44 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.73 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.87 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.55 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.16 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to -0.26 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to -0.85 at 2024-11-09 22:55:38
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:38
+Left/Right Control (Axis 0) moved to -0.97 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to -0.78 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to -0.35 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to 0.38 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to 0.81 at 2024-11-09 22:55:39
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:39
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to -0.97 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to -0.83 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to -0.58 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to -0.15 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to 0.75 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:39
+Brake (Axis 4) moved to 0.82 at 2024-11-09 22:55:40
+Brake (Axis 4) moved to -0.44 at 2024-11-09 22:55:40
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:40
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to 0.95 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to 0.76 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to 0.46 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to 0.23 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -0.13 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -0.35 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -0.61 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -0.88 at 2024-11-09 22:55:40
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:40
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to -0.82 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to -0.57 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to -0.35 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.01 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.37 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.70 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.71 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.33 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.02 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.11 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.30 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.55 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.92 at 2024-11-09 22:55:41
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:41
+Left/Right Control (Axis 0) moved to 0.97 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.68 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.28 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.07 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.16 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.25 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.33 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.37 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.38 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.39 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.38 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.33 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.21 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.05 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.14 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.39 at 2024-11-09 22:55:42
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 0.77 at 2024-11-09 22:55:42
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to -0.97 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to -0.69 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to -0.15 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to 0.92 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:42
+Brake (Axis 4) moved to 0.46 at 2024-11-09 22:55:43
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:43
+Brake (Axis 4) moved to -0.90 at 2024-11-09 22:55:43
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:43
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:43
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:43
+Left/Right Control (Axis 0) moved to 0.81 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to 0.34 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.48 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.75 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.96 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.83 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.65 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.52 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.32 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:45
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:45
+Left/Right Control (Axis 0) moved to -0.23 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:46
+Left/Right Control (Axis 0) moved to -0.50 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:46
+Left/Right Control (Axis 0) moved to -0.75 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:46
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:46
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 0.92 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 0.18 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.97 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -0.48 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.79 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.61 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.29 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to 0.32 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to 0.96 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to 0.96 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to 0.21 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -0.83 at 2024-11-09 22:55:46
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -0.89 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -0.71 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to -0.19 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 0.85 at 2024-11-09 22:55:46
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:46
+Left/Right Control (Axis 0) moved to -0.99 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to -0.59 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to -0.39 at 2024-11-09 22:55:47
+Left/Right Control (Axis 1) moved to 0.02 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to -0.14 at 2024-11-09 22:55:47
+Left/Right Control (Axis 1) moved to 0.04 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 1) moved to -0.00 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.06 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.23 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.48 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.88 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:47
+Left/Right Control (Axis 0) moved to 0.88 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to 0.55 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to 0.28 at 2024-11-09 22:55:48
+Left/Right Control (Axis 1) moved to -0.04 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to 0.07 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 1) moved to -0.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -0.26 at 2024-11-09 22:55:48
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -0.50 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -0.76 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:48
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:48
+Brake (Axis 4) moved to -0.90 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.61 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.04 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.92 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.75 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.21 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.11 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.29 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.40 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.54 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.47 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.44 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.33 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.22 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.15 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.07 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.04 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to -0.00 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.04 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.11 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.18 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.25 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.32 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.36 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.43 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.50 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.64 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.78 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.85 at 2024-11-09 22:55:49
+Brake (Axis 4) moved to 0.89 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 0.73 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to 0.85 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -0.07 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to 0.78 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -0.60 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to 0.64 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to 0.39 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to 0.18 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.00 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.11 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.15 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.11 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.15 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.18 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.25 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.36 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.72 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:50
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -0.93 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -0.60 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 0.47 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to -0.99 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to -0.87 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to -0.59 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to -0.27 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 0.10 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 0.32 at 2024-11-09 22:55:50
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 0.80 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:50
+Left/Right Control (Axis 0) moved to 0.88 at 2024-11-09 22:55:51
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to 0.52 at 2024-11-09 22:55:51
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to 0.11 at 2024-11-09 22:55:51
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:51
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.17 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.36 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.50 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.62 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.85 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.99 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:51
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to -0.66 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to -0.51 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to -0.31 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 0.02 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 0.16 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 0.41 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 0.82 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:52
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 0.88 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 0.62 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to 0.11 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -0.37 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -0.71 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -0.93 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -0.78 at 2024-11-09 22:55:52
+Accelerator (Axis 5) moved to -0.19 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to 0.76 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to 0.33 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.09 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.31 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.50 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.75 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.88 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.61 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.36 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.31 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.78 at 2024-11-09 22:55:53
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:53
+Left/Right Control (Axis 0) moved to -0.98 at 2024-11-09 22:55:54
+Left/Right Control (Axis 0) moved to -0.84 at 2024-11-09 22:55:54
+Left/Right Control (Axis 0) moved to -0.56 at 2024-11-09 22:55:54
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:54
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:54
+Left/Right Control (Axis 0) moved to -0.23 at 2024-11-09 22:55:54
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:54
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:54
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:54
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.22 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.41 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.66 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.76 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.79 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.80 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.77 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.73 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.66 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.52 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.35 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.08 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.13 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.37 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.65 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.94 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -0.69 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -0.36 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 0.96 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to 0.07 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 0.36 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to 0.75 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -0.26 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -0.67 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -0.89 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to 0.85 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to 0.07 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -0.51 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -0.86 at 2024-11-09 22:55:55
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -0.78 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to -0.19 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.97 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.80 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.61 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.48 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to -0.21 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:55
+Left/Right Control (Axis 0) moved to 0.03 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.20 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.44 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.84 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.79 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.50 at 2024-11-09 22:55:56
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.28 at 2024-11-09 22:55:56
+Left/Right Control (Axis 1) moved to -0.01 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.15 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.12 at 2024-11-09 22:55:56
+Left/Right Control (Axis 1) moved to -0.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.11 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.01 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:56
+Left/Right Control (Axis 0) moved to -0.06 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.22 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.38 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.55 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.75 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.95 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -1.00 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.93 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.72 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.44 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to 0.07 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to 0.51 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to 0.85 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.30 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to 1.00 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.71 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.93 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to 0.75 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.25 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.72 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -0.93 at 2024-11-09 22:55:57
+Brake (Axis 4) moved to -1.00 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.97 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.86 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.63 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to -0.22 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to 0.47 at 2024-11-09 22:55:57
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:57
+Left/Right Control (Axis 0) moved to -0.96 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.79 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.59 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.45 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.19 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.19 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.20 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.21 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.20 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.17 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.12 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.04 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.13 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.18 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.19 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.18 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.16 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.13 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to -0.02 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:55:58
+Left/Right Control (Axis 0) moved to 0.02 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:55:59
+Left/Right Control (Axis 0) moved to 0.27 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:59
+Left/Right Control (Axis 0) moved to 0.58 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:59
+Left/Right Control (Axis 0) moved to 1.00 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:55:59
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 0.92 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 0.59 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 0.04 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -0.33 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -0.37 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -0.41 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -0.33 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -0.19 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 0.15 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 0.73 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:00
+Left/Right Control (Axis 0) moved to 0.98 at 2024-11-09 22:56:00
+Left/Right Control (Axis 0) moved to 0.77 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:56:00
+Left/Right Control (Axis 0) moved to 0.41 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:00
+Left/Right Control (Axis 0) moved to 0.06 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:00
+Left/Right Control (Axis 0) moved to 0.00 at 2024-11-09 22:56:00
+Accelerator (Axis 5) moved to -1.00 at 2024-11-09 22:56:01
+Accelerator (Axis 5) moved to 1.00 at 2024-11-09 22:56:01
